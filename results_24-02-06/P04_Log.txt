@@ -1,0 +1,400 @@
+Period04 Log - Tue Feb 20 16:16:04 2024
+ 
+Tue Feb 20 16:16:17 2024:   
+Loaded 140 points of data from file: 
+/Users/jromeo/Documents/Documents-Jacob-MAC/Research/Astronomy/EP425_Project/results_24-02-06/Time-Series.txt
+ (fileformat: tou)
+ 
+Tue Feb 20 16:16:29 2024:   New weight settings:
+Weights are calculated ...
+- ignoring the weights from the attributes
+- using the individual weight for each point
+- ignoring the individual point deviation
+ 
+Tue Feb 20 16:16:35 2024:   Fourier Calculation:
+Title:                    F1
+From frequency:           0.0
+To frequency:             6.9
+Step quality:             Custom
+Step rate:                5.0E-5
+Calculation based on:     the 140 weighted adjusted measurements
+Zero point:               subtracted a zeropoint of 0.001385190053284541
+Calculation started on:   Tue Feb 20 16:16:35 2024 
+Calculation finished on:  Tue Feb 20 16:16:35 2024
+The spectrum contains 138002 points.The following amplitude is the highest:
+Frequency:   1.42065
+Amplitude:   0.0381957439 
+and has been included as frequency 1
+ 
+Tue Feb 20 16:16:59 2024:   Period calculation:
+Calculation based on:     weighted original data
+Calculation started on:   Tue Feb 20 16:16:59 2024
+Calculation finished on:  Tue Feb 20 16:16:59 2024
+Nr.         Frequency        Amplitude      Phase
+F1            1.42065   *0.0374677009*  *0.0547229* 
+Zeropoint:  0.000625727115
+Residuals:  0.0173315984
+Iterations: 4
+ 
+Tue Feb 20 16:17:03 2024:   Fourier Calculation:
+Title:                    F1+
+From frequency:           0.0
+To frequency:             6.9
+Step quality:             Custom
+Step rate:                5.0E-5
+Calculation based on:     the 140 weighted residuals at the adjusted measurements
+		  with 1 frequencies prewhitened
+Calculation started on:   Tue Feb 20 16:17:03 2024 
+Calculation finished on:  Tue Feb 20 16:17:03 2024
+The spectrum contains 138002 points.The following amplitude is the highest:
+Frequency:   2.64525
+Amplitude:   0.00987547064 
+and has been included as frequency 2
+ 
+Tue Feb 20 16:17:08 2024:   Period calculation:
+Calculation based on:     weighted original data
+Calculation started on:   Tue Feb 20 16:17:08 2024
+Calculation finished on:  Tue Feb 20 16:17:08 2024
+Nr.         Frequency        Amplitude      Phase
+F2            2.64525   *0.0091659225*  *0.969993* 
+Zeropoint:  0.00128008187
+Residuals:  0.0312195615
+Iterations: 4
+ 
+Tue Feb 20 16:17:11 2024:   Period calculation:
+Calculation based on:     weighted original data
+Calculation started on:   Tue Feb 20 16:17:11 2024
+Calculation finished on:  Tue Feb 20 16:17:11 2024
+Nr.         Frequency        Amplitude      Phase
+F1   *      1.4222408*  *0.0377400093*  *0.0468261* 
+F2   *     2.64524279*  *0.0100664817*  *0.972234* 
+Zeropoint:  0.000536990992
+Residuals:  0.0158161322
+Iterations: 5
+ 
+Tue Feb 20 16:17:15 2024:   Fourier Calculation:
+Title:                    F1++
+From frequency:           0.0
+To frequency:             6.9
+Step quality:             Custom
+Step rate:                5.0E-5
+Calculation based on:     the 140 weighted residuals at the adjusted measurements
+		  with 2 frequencies prewhitened
+Calculation started on:   Tue Feb 20 16:17:15 2024 
+Calculation finished on:  Tue Feb 20 16:17:15 2024
+The spectrum contains 138002 points.The following amplitude is the highest:
+Frequency:   1.32955
+Amplitude:   0.00860953981 
+and has been included as frequency 3
+ 
+Tue Feb 20 16:17:22 2024:   Period calculation:
+Calculation based on:     weighted original data
+Calculation started on:   Tue Feb 20 16:17:22 2024
+Calculation finished on:  Tue Feb 20 16:17:22 2024
+Nr.         Frequency        Amplitude      Phase
+F3            1.32955   *0.0098227283*  *0.321055* 
+Zeropoint:  0.00151955895
+Residuals:  0.0311110249
+Iterations: 8
+ 
+Tue Feb 20 16:17:26 2024:   Period calculation:
+Calculation based on:     weighted original data
+Calculation started on:   Tue Feb 20 16:17:25 2024
+Calculation finished on:  Tue Feb 20 16:17:25 2024
+Nr.         Frequency        Amplitude      Phase
+F1   *     1.41870344*  *0.0386472145*  *0.0734763* 
+F2   *     2.64897071*  *0.00978065282*  *0.954498* 
+F3   *     1.33832518*  *0.00963081662*  *0.153734* 
+Zeropoint:  0.000656168217
+Residuals:  0.0145076676
+Iterations: 9
+ 
+Tue Feb 20 16:17:28 2024:   Fourier Calculation:
+Title:                    F1+++
+From frequency:           0.0
+To frequency:             6.9
+Step quality:             Custom
+Step rate:                5.0E-5
+Calculation based on:     the 140 weighted residuals at the adjusted measurements
+		  with 3 frequencies prewhitened
+Calculation started on:   Tue Feb 20 16:17:28 2024 
+Calculation finished on:  Tue Feb 20 16:17:28 2024
+The spectrum contains 138002 points.The following amplitude is the highest:
+Frequency:   4.0885
+Amplitude:   0.00698684363 
+and has been included as frequency 4
+ 
+Tue Feb 20 16:17:36 2024:   Period calculation:
+Calculation based on:     weighted original data
+Calculation started on:   Tue Feb 20 16:17:36 2024
+Calculation finished on:  Tue Feb 20 16:17:36 2024
+Nr.         Frequency        Amplitude      Phase
+F4             4.0885   *0.00713125702*  *0.777353* 
+Zeropoint:  0.00141310555
+Residuals:  0.031469301
+Iterations: 7
+ 
+Tue Feb 20 16:17:40 2024:   Period calculation:
+Calculation based on:     weighted original data
+Calculation started on:   Tue Feb 20 16:17:40 2024
+Calculation finished on:  Tue Feb 20 16:17:40 2024
+Nr.         Frequency        Amplitude      Phase
+F1   *     1.41842487*  *0.0385661413*  *0.0737105* 
+F2   *     2.64892404*  *0.00963263036*  *0.953506* 
+F3   *     1.33665108*  *0.00966866297*  *0.160952* 
+F4   *     4.08830405*  *0.00695348242*  *0.763304* 
+Zeropoint:  0.000690819376
+Residuals:  0.0136448116
+Iterations: 9
+ 
+Tue Feb 20 16:17:43 2024:   Fourier Calculation:
+Title:                    F1++++
+From frequency:           0.0
+To frequency:             6.9
+Step quality:             Custom
+Step rate:                5.0E-5
+Calculation based on:     the 140 weighted residuals at the adjusted measurements
+		  with 4 frequencies prewhitened
+Calculation started on:   Tue Feb 20 16:17:43 2024 
+Calculation finished on:  Tue Feb 20 16:17:43 2024
+The spectrum contains 138002 points.The following amplitude is the highest:
+Frequency:   2.8472
+Amplitude:   0.00593313717 
+and has been included as frequency 5
+ 
+Tue Feb 20 16:17:53 2024:   Period calculation:
+Calculation based on:     weighted original data
+Calculation started on:   Tue Feb 20 16:17:53 2024
+Calculation finished on:  Tue Feb 20 16:17:53 2024
+Nr.         Frequency        Amplitude      Phase
+F5             2.8472   * 0.006165222*  *0.920965* 
+Zeropoint:  0.00130221152
+Residuals:  0.0315745548
+Iterations: 4
+ 
+Tue Feb 20 16:17:56 2024:   Period calculation:
+Calculation based on:     weighted original data
+Calculation started on:   Tue Feb 20 16:17:56 2024
+Calculation finished on:  Tue Feb 20 16:17:56 2024
+Nr.         Frequency        Amplitude      Phase
+F1   *     1.41884958*  *0.0383773563*  *0.0702406* 
+F2   *     2.65625351*  *0.00970925179*  *  0.9135* 
+F3   *     1.33402751*  *0.00949922617*  *0.177061* 
+F4   *     4.08709482*  *0.00702856201*  *0.770201* 
+F5   *     2.84490399*  *0.00621155201*  * 0.95131* 
+Zeropoint:  0.000662247173
+Residuals:  0.0129532893
+Iterations: 10
+ 
+Tue Feb 20 16:18:07 2024:   Fourier Calculation:
+Title:                    F1+++++
+From frequency:           0.0
+To frequency:             6.9
+Step quality:             Custom
+Step rate:                5.0E-5
+Calculation based on:     the 140 weighted residuals at the adjusted measurements
+		  with 5 frequencies prewhitened
+Calculation started on:   Tue Feb 20 16:18:07 2024 
+Calculation finished on:  Tue Feb 20 16:18:07 2024
+The spectrum contains 138002 points.The following amplitude is the highest:
+Frequency:   1.2172
+Amplitude:   0.00552136091 
+and has been included as frequency 6
+ 
+Tue Feb 20 16:18:14 2024:   Period calculation:
+Calculation based on:     weighted original data
+Calculation started on:   Tue Feb 20 16:18:14 2024
+Calculation finished on:  Tue Feb 20 16:18:14 2024
+Nr.         Frequency        Amplitude      Phase
+F6             1.2172   *0.00760970757*  *0.184024* 
+Zeropoint:  0.00151639022
+Residuals:  0.0314147407
+Iterations: 5
+ 
+Tue Feb 20 16:18:22 2024:   Period calculation:
+Calculation based on:     weighted original data
+Calculation started on:   Tue Feb 20 16:18:20 2024
+Calculation finished on:  Tue Feb 20 16:18:20 2024
+Nr.         Frequency        Amplitude      Phase
+F1   *      1.4176899*  *0.0374632122*  *0.0668835* 
+F2   *     2.65683776*  *0.00976640978*  *0.909797* 
+F3   *     1.27913298*  *0.0773153434*  *0.419437* 
+F4   *      4.0870705*  *0.00720357307*  *0.768783* 
+F5   *     2.84742241*  *0.00633537252*  *0.940349* 
+F6   *     1.27121472*  *0.0742137214*  *0.951918* 
+Zeropoint:  0.000991136828
+Residuals:  0.0121796064
+Iterations: 98
+ 
+Tue Feb 20 16:18:28 2024:   Period calculation:
+Calculation based on:     weighted original data
+Calculation started on:   Tue Feb 20 16:18:28 2024
+Calculation finished on:  Tue Feb 20 16:18:28 2024
+Nr.         Frequency        Amplitude      Phase
+F1   *     1.41884958*  *0.0383774174*  *0.0702412* 
+F2   *     2.65625355*  *0.00970923751*  *  0.9135* 
+F3   *     1.33402896*  *0.00949925988*  *0.177054* 
+F4   *     4.08709493*  *0.0070285519*  *  0.7702* 
+F5   *     2.84490402*  *0.00621154011*  * 0.95131* 
+Zeropoint:  0.000662241899
+Residuals:  0.0129532893
+Iterations: 21
+ 
+Tue Feb 20 16:18:36 2024:   Period calculation:
+Calculation based on:     weighted original data
+Calculation started on:   Tue Feb 20 16:18:36 2024
+Calculation finished on:  Tue Feb 20 16:18:36 2024
+Nr.         Frequency        Amplitude      Phase
+F1   *     1.41884956*  * 0.038377248*  *0.0702395* 
+F2   *     2.65625342*  *0.00970927889*  *  0.9135* 
+F3   *     1.33402483*  *0.00949916782*  *0.177071* 
+F4   *     4.08709461*  * 0.007028581*  *0.770202* 
+F5   *     2.84490392*  *0.00621157415*  * 0.95131* 
+Zeropoint:  0.000662256669
+Residuals:  0.0129532893
+Iterations: 2
+ 
+Tue Feb 20 16:19:14 2024:   Period calculation:
+Calculation based on:     weighted original data
+Calculation started on:   Tue Feb 20 16:19:14 2024
+Calculation finished on:  Tue Feb 20 16:19:14 2024
+Nr.         Frequency        Amplitude      Phase
+F1   *     1.41884958*  *0.0383772038*  *0.070239* 
+F2   *     2.65625339*  *0.00970928782*  *  0.9135* 
+F3   *     1.33402387*  *0.00949914227*  *0.177076* 
+F4   *     4.08709454*  *0.00702858747*  *0.770202* 
+F5   *      2.8449039*  *0.00621158193*  * 0.95131* 
+Zeropoint:  0.000662260365
+Residuals:  0.0129532893
+Iterations: 2
+ 
+Tue Feb 20 16:19:32 2024:   Saved project:
+Saved project to file: /Users/jromeo/Documents/Documents-Jacob-MAC/Research/Astronomy/EP425_Project/results_24-02-06/P04.p04
+ 
+Tue Feb 20 16:19:46 2024:   Period amplitude/phase variation calculation:
+Calculation based on:     weighted data
+Names are selected from: Date
+Calculation startet on:  Tue Feb 20 16:19:46 2024
+   F1   Fre = 1.41884957556878 Amp =    0.0383772 Pha =     0.070239 
+   F2   Fre = 2.65625339456721 Amp =   0.00970929 Pha =       0.9135 
+   F3   Fre = 1.3340238717161 Amp =   0.00949914 Pha =     0.177075 
+   F4   Fre = 4.08709453899802 Amp =   0.00702859 Pha =     0.770202 
+   F5   Fre = 2.84490389945277 Amp =   0.00621158 Pha =      0.95131 
+Zeropoint:  0.000662260373
+Residuals:  0.0129532893
+Iterations: 2
+ 
+Tue Feb 20 16:20:43 2024:   Noise calculation
+At frequency:             1.41884957556878
+Boxsize:                  2.0
+Step rate:                5e-05
+Calculation based on:     the 140 weighted adjusted measurements
+Zero point:               subtracted a zeropoint of 0.001385190053284541
+Calculation started on:   Tue Feb 20 16:20:43 2024
+ 
+The noise is:             0.00572652582
+Calculation finished on: Tue Feb 20 16:20:43 2024
+ 
+Tue Feb 20 16:20:49 2024:   Noise calculation
+At frequency:             2.65625339456721
+Boxsize:                  2.0
+Step rate:                5e-05
+Calculation based on:     Calculation started on:   Tue Feb 20 16:20:49 2024
+ 
+The noise is:             0.00171438086
+Calculation finished on: Tue Feb 20 16:20:49 2024
+ 
+Tue Feb 20 16:20:54 2024:   Noise calculation
+At frequency:             1.3340238717161
+Boxsize:                  2.0
+Step rate:                5e-05
+Calculation based on:     Calculation started on:   Tue Feb 20 16:20:54 2024
+ 
+The noise is:             0.00239974049
+Calculation finished on: Tue Feb 20 16:20:54 2024
+ 
+Tue Feb 20 16:20:57 2024:   Noise calculation
+At frequency:             4.08709453899802
+Boxsize:                  2.0
+Step rate:                5e-05
+Calculation based on:     Calculation started on:   Tue Feb 20 16:20:57 2024
+ 
+The noise is:             0.00172903282
+Calculation finished on: Tue Feb 20 16:20:57 2024
+ 
+Tue Feb 20 16:21:01 2024:   Noise calculation
+At frequency:             2.84490389945277
+Boxsize:                  2.0
+Step rate:                5e-05
+Calculation based on:     Calculation started on:   Tue Feb 20 16:21:01 2024
+ 
+The noise is:             0.00192196445
+Calculation finished on: Tue Feb 20 16:21:01 2024
+ 
+Tue Feb 20 16:21:31 2024:   Noise spectrum calculation
+From frequency:           0.0
+To frequency:             6.9
+Steps:                    10.0
+Boxsize:                  2.0
+Step rate:                5e-05
+Calculation based on:     the 140 weighted adjusted measurements
+Zero point:               subtracted a zeropoint of 0.001385190053284541
+Calculation started on:   Tue Feb 20 16:21:31 2024
+ 
+Frequency	Noise-amplitude
+              5	0.00204850583
+Calculation finished on: Tue Feb 20 16:21:31 2024
+ 
+Tue Feb 20 16:21:50 2024:   Noise spectrum calculation
+From frequency:           0.0
+To frequency:             6.9
+Steps:                    10.0
+Boxsize:                  2.0
+Step rate:                5e-05
+Calculation based on:     the 140 weighted adjusted measurements
+Zero point:               subtracted a zeropoint of 0.001385190053284541
+Calculation started on:   Tue Feb 20 16:21:50 2024
+ 
+Frequency	Noise-amplitude
+              5	0.00204850583
+Calculation finished on: Tue Feb 20 16:21:50 2024
+ 
+Tue Feb 20 16:21:52 2024:   Noise spectrum calculation
+From frequency:           0.0
+To frequency:             6.9
+Steps:                    10.0
+Boxsize:                  2.0
+Step rate:                5e-05
+Calculation based on:     Calculation started on:   Tue Feb 20 16:21:52 2024
+ 
+Frequency	Noise-amplitude
+              5	0.00158632704
+Calculation finished on: Tue Feb 20 16:21:52 2024
+ 
+Tue Feb 20 16:21:54 2024:   Noise spectrum calculation
+From frequency:           0.0
+To frequency:             6.9
+Steps:                    10.0
+Boxsize:                  2.0
+Step rate:                5e-05
+Calculation based on:     Calculation started on:   Tue Feb 20 16:21:54 2024
+ 
+Frequency	Noise-amplitude
+              5	0.00158632704
+Calculation finished on: Tue Feb 20 16:21:54 2024
+ 
+Tue Feb 20 16:21:57 2024:   Noise spectrum calculation
+From frequency:           0.0
+To frequency:             6.9
+Steps:                    10.0
+Boxsize:                  2.0
+Step rate:                5e-05
+Calculation based on:     the 140 weighted adjusted measurements
+Zero point:               subtracted a zeropoint of 0.001385190053284541
+Calculation started on:   Tue Feb 20 16:21:57 2024
+ 
+Frequency	Noise-amplitude
+              5	0.00204850583
+Calculation finished on: Tue Feb 20 16:21:57 2024
+ 
+

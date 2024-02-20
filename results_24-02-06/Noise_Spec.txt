@@ -1,0 +1,2 @@
+Frequency         Noise-amplitude
+              5	0.00204850583

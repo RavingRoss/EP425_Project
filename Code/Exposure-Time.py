@@ -17,11 +17,11 @@ rho = 9 # e/pixel/s read noise
 d = 3 # e/pixel/s
 b = 1.4 # e/pixel/s
 
-A = (N**2)/(1000**2)
+A = (N**2)/(230**2)
 print('A = ',A)
 B = (N+(np.pi*(3.5**2)*2*(b+d)))
 print('B = ',B)
-C = np.pi*(3.5**2)*2*(4)**2
+C = np.pi*(3.5**2)*2*(rho)**2
 print('C = ',C)
 t = ((B+np.sqrt(B**2+4*A*C))/(2*A))
 print('t = ',t)
