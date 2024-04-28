@@ -1,5 +1,9 @@
 from sympy import *
 import numpy as np
+
+# ==============================================================================
+# ADD ANGULAR SIZE OF STAR AND ESTIMATE OF BACKGROUND (b) FROM OUR FRAME (FOV)
+
 V = 13.65 # mag
 a = 1/2 # m
 area = (np.pi*(a)**2)
@@ -15,9 +19,9 @@ print(N)
 A_R = 2.5 # pixels
 rho = 9 # e/pixel/s read noise
 d = 3 # e/pixel/s
-b = 1.4 # e/pixel/s
+b = 1.4 # e/pixel/s <---- CHANGE WITH ESTIMATES
 
-A = (N**2)/(230**2)
+A = (N**2)/(318.080028**2)
 print('A = ',A)
 B = (N+(np.pi*(3.5**2)*2*(b+d)))
 print('B = ',B)
